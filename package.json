@@ -1,0 +1,15 @@
+{
+  "name": "SoviivCore",
+  "version": "1.0.0",
+  "description": "SoviivVG's Core datapack functions using the Sandstone library",
+  "main": "main.js",
+  "homepage": "https://github.com/soviivvg/SoviivCore-sandstone",
+  "bugs": "https://github.com/soviivvg/SoviivCore-sandstone/issues",
+  "repository": {
+    "url": "https://github.com/soviivvg/SoviivCore",
+    "type": "git"
+  },
+  "author": "SoviivVG",
+  "license": "MIT",
+  "private": true
+}
